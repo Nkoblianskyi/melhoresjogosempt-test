@@ -108,21 +108,6 @@ export function FAQSection() {
           ))}
         </div>
 
-        {/* Contact CTA */}
-        <div className="mt-12 text-center">
-          <div className="luxury-card rounded-xl p-8 max-w-2xl mx-auto">
-            <p className="text-foreground text-lg mb-3">Tem outra pergunta?</p>
-            <p className="text-muted-foreground mb-6">
-              A nossa equipa está disponível para esclarecer todas as suas dúvidas
-            </p>
-            <a
-              href="mailto:suporte@melhoresjogosempt.com"
-              className="inline-block btn-luxury text-primary-foreground font-semibold px-8 py-3 rounded-lg"
-            >
-              Contactar Suporte
-            </a>
-          </div>
-        </div>
       </div>
     </section>
   )
