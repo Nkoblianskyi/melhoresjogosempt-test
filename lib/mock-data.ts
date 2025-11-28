@@ -71,8 +71,6 @@ export const bettingSites: BettingSite[] = [
     rating: 8.8,
     bonus: "100% Até 20€",
     features: ["Licenciado SRIJ", "Casino Português", "Suporte 24/7"],
-
-
     url: "https://www.solverde.pt/",
     reviews: 3217,
   },
